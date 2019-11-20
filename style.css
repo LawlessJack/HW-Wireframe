@@ -11,6 +11,36 @@ body {
     
 p{
     background: #ebebeb;
-    padding: 50px;
+    padding: 40px;
+    margin: 10px;
+    
+}
+
+.section{
+    float: left;
+    width: 495px;
+    height: 250px;
+}
+
+
+
+.aside{
+    float: right;
+    width: 260px;
+    height: 250px;
+}
+
+#section {
+    width: 100px;
+    height: 100px;
+    
+    
+}
+#section #article{
+    position: relative;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-top: 25%;;
     
 }
